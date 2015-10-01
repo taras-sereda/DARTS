@@ -1,4 +1,4 @@
-__author__ = 'matlab'
+__author__ = 'taras-sereda'
 import numpy as np
 import os
 from scipy.io import loadmat
