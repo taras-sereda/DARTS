@@ -1,4 +1,4 @@
-__author__ = 'matlab'
+__author__ = 'taras-sereda'
 
 from collections import Counter
 from scipy.io import loadmat
